@@ -255,5 +255,10 @@ A student ID :credit_card:  is a key :key: that unlocks :closed_lock_with_key: s
 ---
 
 <p align="center">
+	Your tuition, supplies and dorm expenses are pricey,
+	but they’re not the only costs you have to worry about as a college student.
+	On average, students at public four-year universities spend $2,170 per year on other expenses,
+	including subscription services and entertainment. When you’re on a tight budget, 
+	every dollar you save can make a big difference.
 	<a href="https://github.com/OpenGenus/Best-student-discount-services/blob/master/code_of_conduct.md">Code of conduct</a> | <a href="https://github.com/OpenGenus/Best-student-discount-services/blob/master/contribute.md">Contribute</a>
 </p>
